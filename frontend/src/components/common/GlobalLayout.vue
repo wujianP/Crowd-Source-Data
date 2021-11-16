@@ -48,7 +48,7 @@ export default {
   },
   computed: {
     copyright () {
-      return `${new Date().getFullYear()} <a href="https://github.com/wujianP/Crowd-sourcing-Data-Annotation" target="_blank" style="text-decoration: none; color: #42b983">众包数据标注平台</a>`
+      return `${new Date().getFullYear()} <a href="https://github.com/wujianP/Crowd-Source-Data" target="_blank" style="text-decoration: none; color: #42b983">众包数据标注平台</a>`
     }
   }
 }
