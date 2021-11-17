@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c35f7c4e-0ea3-434d-8504-6795dba30f68" name="默认变更列表" comment="前端网页布局已搭建完成！">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CloudSource.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/components/common/GlobalLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/common/GlobalLayout.vue" afterDir="false" />
-    </list>
+    <list default="true" id="c35f7c4e-0ea3-434d-8504-6795dba30f68" name="默认变更列表" comment="前端网页布局已搭建完成！" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1637048577573</updated>
-      <workItem from="1637048578686" duration="2542000" />
+      <workItem from="1637048578686" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="前端网页布局已搭建完成！">
       <created>1637049119210</created>
