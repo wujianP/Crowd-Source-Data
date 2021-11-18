@@ -55,8 +55,10 @@ export default {
 </script>
 
 <style Lang="less" scoped>
-.sider_zone{
-  overflow-x:hidden; overflow-y:hidden;
+
+::-webkit-scrollbar {
+  /*隐藏滚轮*/
+  display: none;
 }
 
 .home-container {
