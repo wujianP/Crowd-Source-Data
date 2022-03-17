@@ -4,4 +4,4 @@ Codes are updating soon!
 All rights reserved.
 
 #  Note!!!
-The complete project is on gitee, you can visit via this [link](url).
+The complete project is on gitee, you can visit via this [link](https://gitee.com/stephanp/Crowd-Source-Data).
