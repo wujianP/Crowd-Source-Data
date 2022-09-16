@@ -1,7 +1,6 @@
 # Crowd-Source-Data Annotation Platform
 This is a crowdsourcing data annotation platform developed by undergranduates from Software Engineering School in Xi'an Jiaotong University.  
-Codes are updating soon!
-All rights reserved.
+Codes comming soon!
 
 #  Note!!!
-The complete project is on gitee, you can visit via this [link](https://gitee.com/stephanp/Crowd-Source-Data).
+The completed project is on gitee, you can visit via this [link](https://gitee.com/stephanp/Crowd-Source-Data).
